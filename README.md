@@ -14,17 +14,11 @@ Indie game creator et étudiant en Bachelor Game Programming à ISART Digital Pa
 ---
 
 ## Expériences & projets
-
-- **Développeur d’application Python – CEA Paris-Saclay**  
-  Traitement de données issues de spectrométrie neutronique (AQUASPEC), interface graphique desktop (Tkinter) et visualisations avancées pour l’analyse de gros volumes de données.
-
-- **Projets Unity (C#)**  
-  Prototypage d’IA (GOAP, comportements d’ennemis), gameplay systems et outils de debug.  
-  → [GOAP_AIExperiment](https://github.com/Ros4go/GOAP_AIExperiment)
-
 - **Expérimentations Machine Learning (C#)**  
   Tests d’algorithmes de ML appliqués au gameplay et au game design.  
   → [MachineLearningExperiment](https://github.com/Ros4go/MachineLearningExperiment)
+  Prototypage d’IA (GOAP, comportements d’ennemis), gameplay systems et outils de debug.  
+  → [GOAP_AIExperiment](https://github.com/Ros4go/GOAP_AIExperiment)
 
 - **Jeux étudiants / jeux de jam**  
   - [SuperSushiSpeed](https://github.com/ShazalsAdepts/SuperSushiSpeed) – jeu arcade rapide (Godot / GDScript)  
@@ -42,5 +36,3 @@ Indie game creator et étudiant en Bachelor Game Programming à ISART Digital Pa
 - Prototypage de mécaniques de jeu, systèmes d’IA et outils de production  
 - Expérimentations autour des datas, de l’UX et du balancing  
 - Contributions à des projets d’équipe (projets école, game jams, collabs)
-
-Si un de mes repos t’intéresse ou que tu veux discuter d’un projet de jeu, n’hésite pas à ouvrir une issue ou à me ping directement sur GitHub.
