@@ -1,16 +1,46 @@
-## Hi there 👋
+# Marius PIRIS – Game Programmer
 
-<!--
-**Ros4go/Ros4go** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Indie game creator et étudiant en Bachelor Game Programming à ISART Digital Paris, orienté gameplay, IA et outils pour le jeu vidéo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack technique
+
+- **Langages** : C#, C++, C, Java, Python, JavaScript, SQL, PHP  
+- **Moteurs & frameworks** : Unity, Unreal Engine 5, Godot  
+- **Outils** : Git, UML, Merise, GitHub Actions  
+- **Data / outils scientifiques** : numpy, pandas, matplotlib, seaborn, Tkinter
+
+---
+
+## Expériences & projets
+
+- **Développeur d’application Python – CEA Paris-Saclay**  
+  Traitement de données issues de spectrométrie neutronique (AQUASPEC), interface graphique desktop (Tkinter) et visualisations avancées pour l’analyse de gros volumes de données.
+
+- **Projets Unity (C#)**  
+  Prototypage d’IA (GOAP, comportements d’ennemis), gameplay systems et outils de debug.  
+  → [GOAP_AIExperiment](https://github.com/Ros4go/GOAP_AIExperiment)
+
+- **Expérimentations Machine Learning (C#)**  
+  Tests d’algorithmes de ML appliqués au gameplay et au game design.  
+  → [MachineLearningExperiment](https://github.com/Ros4go/MachineLearningExperiment)
+
+- **Jeux étudiants / jeux de jam**  
+  - [SuperSushiSpeed](https://github.com/ShazalsAdepts/SuperSushiSpeed) – jeu arcade rapide (Godot / GDScript)  
+  - [Mytho-Logie](https://github.com/DemonXlegenD/Mytho-Logie) – projet C# orienté narration  
+  - [SIRIUS](https://github.com/SIRIUS-ISART-2025/SIRIUS) – projet C++ (projet d’équipe ISART)
+
+- **Portfolio / CV en ligne**  
+  Site statique présentant mon profil et une sélection de projets.  
+  → [marius.piris](https://github.com/Ros4go/marius.piris) – [demo](https://ros4go.github.io/marius.piris/)
+
+---
+
+## Ce que je fais ici
+
+- Prototypage de mécaniques de jeu, systèmes d’IA et outils de production  
+- Expérimentations autour des datas, de l’UX et du balancing  
+- Contributions à des projets d’équipe (projets école, game jams, collabs)
+
+Si un de mes repos t’intéresse ou que tu veux discuter d’un projet de jeu, n’hésite pas à ouvrir une issue ou à me ping directement sur GitHub.
