@@ -16,7 +16,8 @@ Indie game creator et étudiant en Bachelor Game Programming à ISART Digital Pa
 ## Expériences & projets
 - **Expérimentations Machine Learning (C#)**  
   Tests d’algorithmes de ML appliqués au gameplay et au game design.  
-  → [MachineLearningExperiment](https://github.com/Ros4go/MachineLearningExperiment)
+  → [MachineLearningExperiment](https://github.com/Ros4go/MachineLearningExperiment) 
+  
   Prototypage d’IA (GOAP, comportements d’ennemis), gameplay systems et outils de debug.  
   → [GOAP_AIExperiment](https://github.com/Ros4go/GOAP_AIExperiment)
 
